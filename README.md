@@ -1,6 +1,6 @@
 # Key Capturer
 
-A program that will listen to the keys you pressed and display the key and its keycode on screen.
+A website that will listen for the keys you pressed and display its respective keycode on screen.
 
 # Motivation
 
