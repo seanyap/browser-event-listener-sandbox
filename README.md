@@ -1,6 +1,8 @@
 # Key Capturer
 
-A website that will listen for the keys you pressed and display its respective keycode on screen.
+A website that listens for the keys you pressed and displays their keycode automatically
+
+Check it out [here](https://seanyap.github.io/browser-event-listener-sandbox/)!
 
 ## Motivation
 
